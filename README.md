@@ -16,7 +16,7 @@ Find the probabilities of two coins A and B, given 5 coin tossing trials with mi
 ![Screen Shot 2021-08-23 at 12.16.15 AM](https://raw.githubusercontent.com/mistylight/picbed/main/Hexo/2021_08_23_ANpC4XhsQGvDRdL.png)
 
 ## Example 2: Girls and boys (GMM)
-Infer the gender of 6 students given their heights (Note: in real life, inferring one's gender based on their height can be a bad idea. This example is for educational purposes only):
+Infer the gender of 6 students given their heights (Note: in real life, inferring one's gender based on their height might be a bad idea. This example is for educational purposes only):
 
 | Student ID | Gender  | Height (cm) |
 | ---------- | ------- | ----------- |
